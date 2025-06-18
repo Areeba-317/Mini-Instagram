@@ -75,4 +75,4 @@ A micro-version of Instagram built from scratch using core data structures imple
   
 1. Open the `.cpp` files in **Visual Studio**.  
 2. Make sure all `.cpp` and `.h` files are part of your solution.  
-3. Build & Run — then start interacting with the menu like you're on the OG Instagram     
+3. Build & Run then start interacting with the menu like you're on the OG Instagram     
