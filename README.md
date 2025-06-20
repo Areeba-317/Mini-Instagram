@@ -75,4 +75,14 @@ A micro-version of Instagram built from scratch using core data structures imple
   
 1. Open the `.cpp` files in **Visual Studio**.  
 2. Make sure all `.cpp` and `.h` files are part of your solution.  
-3. Build & Run then start interacting with the menu like you're on the OG Instagram     
+3. Build & Run then start interacting with the menu like you're on the OG Instagram
+  
+## 🤝 Project Collaboration  
+  
+This project was completed in collaboration with Rafay(https://github.com/rafay-7933455). We worked together on planning, execution, and analysis.   
+  
+### 🧠 Contribution Breakdown:  
+- **Areeba** – Notifications, posts and newsfeed, search users, login auth
+- **Rafay** – Messaging system, social graph, Friend requests
+
+We collaborated on the entire workflow and shared responsibilities for interpretation, discussion, and project design.  
